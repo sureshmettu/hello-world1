@@ -1,3 +1,2 @@
-# hello-world1
-
-changes made to clone 1
+# hello-world
+this is clone 1
